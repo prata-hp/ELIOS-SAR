@@ -1,1 +1,0 @@
-"""ELIOS-SAR integration package."""
